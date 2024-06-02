@@ -11,8 +11,7 @@ export default function Page() {
   return (
     <>
       <div className="mt-6 rounded-lg border border-dark bg-light px-6 py-10 text-xl text-gray-800 md:px-20 md:text-3xl md:leading-normal">
-        <strong>Welcome to Handcrafted Haven.</strong> Connect with creativity
-        and browse handcrafted and handmade products.
+        Thank you for Joining us at handcraft haven where we combine craft and creativity
       </div>
 
       <div className="flex justify-center space-x-10">
